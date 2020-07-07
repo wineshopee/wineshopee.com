@@ -1,0 +1,5 @@
+.img-fluid, .img-thumbnail {
+  width: 99%;
+  max-width: 100%;
+}
+
